@@ -8,6 +8,8 @@ El problema que se desea resolver es, cuando un usuario requiere registrar una l
 	* Capacitación 2
 	* ... 
 
+	![picture]https://bitbucket.org/educadores-tradicionales-ciae/datos-compuestos-registro/src/master/ejemplos/ejemplo%20plugin.png
+
 ### OBJETIVOS ###
 
 * Version 1.0
