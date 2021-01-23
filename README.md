@@ -1,14 +1,12 @@
 # README #
 
 Este repo consiste en 2 plugins creados para Moodle, usados para registro de usuarios.
-El problema que se desea resolver es, cuando un usuario requiere registrar una lista de campos múltiples, por ejemplo: 
-	
+El problema que se desea resolver es, cuando un usuario requiere registrar una lista de campos múltiples, por ejemplo: 	
 	Capacitaciones externas a Moodle que haya realizado:
 	* Capacitación 1
 	* Capacitación 2
 	* ... 
-
-	![picture]https://bitbucket.org/educadores-tradicionales-ciae/datos-compuestos-registro/src/master/ejemplos/ejemplo%20plugin.png
+![picture]https://bitbucket.org/educadores-tradicionales-ciae/datos-compuestos-registro/src/master/ejemplos/ejemplo%20plugin.png
 
 ### OBJETIVOS ###
 
