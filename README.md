@@ -35,6 +35,6 @@ El orden de instalación es el siguiente:
 * Librería [JsonEditor](https://github.com/json-editor/json-editor), que ya está incluída.
  
 
-### Constribuciones y dudas ###
+### Contribuciones y dudas ###
 
 * Comunicarse a Pablo Millaquén [email](pablomillaquen@gmail.com)
