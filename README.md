@@ -3,9 +3,7 @@
 Este repo consiste en 2 plugins creados para Moodle, usados para registro de usuarios.
 El problema que se desea resolver es, cuando un usuario requiere registrar una lista de campos múltiples, por ejemplo: 	
 	Capacitaciones externas a Moodle que haya realizado:
-	* Capacitación 1
-	* Capacitación 2
-	* ... 
+	
 ![alternativetext](ejemplos/ejemplo%20plugin.png)
 
 ### OBJETIVOS ###
@@ -23,22 +21,20 @@ Crea los campos personalizados en la tabla "mdl_user_info_field".
 
 ### Como instalar ###
 
-Para subirlos a Moodle, lo recomendable es comprimir las carpetas por separado, en formato ZIP y posteriormente subirlos mediante la opción de Subir Extensiones en la sección de Administración (Administración del Sitio -> Extensiones -> Instalar módulos externos). 
+Para subirlos a Moodle, es necesario comprimir las carpetas por separado, en formato ZIP y posteriormente subirlos mediante la opción de Subir Extensiones en la sección de Administración (Administración del Sitio -> Extensiones -> Instalar módulos externos). 
+Posteriormente, el plugin instalado, creará los registros y el tipo de dato necesario para este tipo de campo.
+El orden de instalación es el siguiente:
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* Plugin Compound
+* Plugin Jsonform
 
-### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
+### Dependencias ###
 
-### Who do I talk to? ###
+* Moodle 3.10.1 (Build: 20210118), en adelante.
+* Librería [JsonEditor](https://github.com/json-editor/json-editor), que ya está incluída.
+ 
 
-* Repo owner or admin
-* Other community or team contact
+### Contribuciones y dudas ###
+
+* Comunicarse a Pablo Millaquén [email](pablomillaquen@gmail.com)
